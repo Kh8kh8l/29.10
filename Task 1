@@ -1,0 +1,5 @@
+name='Sergey'
+name=name.upper()
+day='Friday'
+day=day.replace('Fri', 'Satur')
+print(f"Good day {name}! {day} is a perfect to learn some python")
