@@ -1,5 +1,8 @@
-f='sergey'
+f='sergey '
 s='khokhlov'
 print(f.upper() + s.capitalize() )
 
-'{0}, {1}'.format('Khokhlov', 'Sergey')
+x='Sergey'
+y='Khokhlov'
+z= x + " " + y
+print(z)
